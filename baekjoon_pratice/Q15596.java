@@ -8,5 +8,5 @@ public class Q15596 {
 			result += a[i];
 		}
 		return result;
-	}
+	}	
 }
