@@ -23,7 +23,6 @@ public class Q11720 {
 			num[i] = Integer.parseInt(str[i]);
 			result += num[i];
 		}
-		
 		System.out.println(result);
 
 	}

@@ -14,7 +14,6 @@ public class Q1152 {
 		StringTokenizer st = new StringTokenizer(str, " ");
 		
 		System.out.println(st.countTokens());
-		
 	}
 
 }
