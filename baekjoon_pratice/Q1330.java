@@ -21,7 +21,6 @@ public class Q1330 {
 		}else {
 			System.out.println("==");
 		}
-
 	}
 
 }
