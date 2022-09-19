@@ -23,8 +23,9 @@ public class Q11399 {
 		int[] arr = new int[1001];
 
 		// Counting Sort
-		while (n-- > 0) {
+		while (n > 0) {
 			arr[Integer.parseInt(st.nextToken())]++;
+			n -= 1;
 		}
 
 		int prev = 0; // 대기시간 누적합
