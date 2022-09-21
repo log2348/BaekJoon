@@ -1,3 +1,4 @@
+package p01;
 import java.util.Scanner;
 /*
  * indexOf()를 사용한 풀이

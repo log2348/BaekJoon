@@ -1,3 +1,4 @@
+package p01;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
